@@ -18,6 +18,30 @@ A modern, responsive portfolio website designed to showcase professional work, s
 - Optimized images and assets
 - Smooth animations and transitions
 
+## Project Structure
+
+```
+figma-mcp/
+├── index.html              # Main landing page
+├── about.html              # About me page
+├── projects.html           # Projects showcase page
+├── contact.html            # Contact information page
+├── assets/                 # All static assets
+│   ├── css/                # Stylesheets
+│   │   ├── main.css        # Main stylesheet
+│   │   ├── normalize.css   # CSS reset
+│   │   └── responsive.css  # Media queries
+│   ├── js/                 # JavaScript files
+│   │   ├── main.js         # Main functionality
+│   │   └── animations.js   # Animation effects
+│   ├── images/             # Image assets
+│   │   ├── projects/       # Project screenshots
+│   │   ├── icons/          # UI icons
+│   │   └── profile/        # Profile pictures
+│   └── fonts/              # Custom font files
+└── docs/                   # Documentation files
+```
+
 ## Getting Started
 
 1. Clone the repository
